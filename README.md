@@ -1,8 +1,6 @@
 Project for the Netrworks course.
 
-"Ritardatore" is provided by the teacher.
-
-It is a sort of simulator of the internet.
+"Ritardatore" is a sort of simulator of the internet.
 
 This is a simple logic scheme of the project:
 
